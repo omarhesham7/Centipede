@@ -1,1 +1,2 @@
 # Centipede
+The arcade game
